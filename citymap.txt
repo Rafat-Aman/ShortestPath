@@ -1,0 +1,12 @@
+# from  to                weight  type
+TownHall CentralStation   5       bus
+CentralStation Museum     3       metro
+Museum Riverfront         1       walking
+TownHall Airport          12      road
+Airport CentralStation    -2      road
+CentralStation University 2       bus
+University Stadium        1       walking
+Stadium OldTown           2       road
+OldTown Riverfront        1       walking
+University TechPark       4       metro
+TechPark Airport          1       road
